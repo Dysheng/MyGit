@@ -1,9 +1,0 @@
-E:\NetSocket\Server\Server\bin\Debug\Server.exe.config
-E:\NetSocket\Server\Server\bin\Debug\Server.exe
-E:\NetSocket\Server\Server\bin\Debug\Server.pdb
-E:\NetSocket\Server\Server\obj\Debug\Server.Properties.Resources.resources
-E:\NetSocket\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
-E:\NetSocket\Server\Server\obj\Debug\Server.exe
-E:\NetSocket\Server\Server\obj\Debug\Server.pdb
-E:\NetSocket\Server\Server\obj\Debug\Server.Server.resources
-E:\NetSocket\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

@@ -1,8 +1,0 @@
-E:\NetSocket\Client\Client\bin\Debug\Client.exe.config
-E:\NetSocket\Client\Client\bin\Debug\Client.exe
-E:\NetSocket\Client\Client\bin\Debug\Client.pdb
-E:\NetSocket\Client\Client\obj\Debug\Client.Client.resources
-E:\NetSocket\Client\Client\obj\Debug\Client.Properties.Resources.resources
-E:\NetSocket\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
-E:\NetSocket\Client\Client\obj\Debug\Client.exe
-E:\NetSocket\Client\Client\obj\Debug\Client.pdb
